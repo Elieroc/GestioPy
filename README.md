@@ -1,3 +1,3 @@
-# pypassman
+# GestioPy
 
-Projet en cours de développement
+A simple python passwords manager
